@@ -1,0 +1,617 @@
+FOB điểm đến: Hàng đi đường là hàng của bên bán, chi phí bên bán chịu
+FOB điểm đi: Hàng đi đường là hàng của bên mua, chi phí vận chuyển bên mua chịu
+•Chu trình kết toán: Nhận biết → đo lường và ghi chép → Cung cấp thông tin
+Thuế GTGT Phải Nộp = Doanh thu thuần x Thuế suất GTGT
+=> Thuế GTGT phải nộp = ((Tổng thu từ bán hàng)/ (1 + Thuế suất GTGT)) x Thuế GTGT
+CHƯƠNG 1:
+ KẾ TOÁN
+    → Ngôn ngữ kinh doanh
+- Chức năng 
+  + NHẬN BIẾT sự kiện kinh tế
+  + ĐO LƯỜNG VÀ GHI CHÉP thông tin về sự kiện theo thời gian, bằng tiền tệ
+  + CUNG CẤP THÔNG TIN cho người sử dụng qua báo cáo kế toán, phân tích thông tin
+- Chu trình
+  + Thu thập bằng chứng, cơ sở
+  + Ghi sổ kép (định khoản), ghi sổ cái (chữ T)
+  + Điều chỉnh cuối kì → Bảng cân đối thử
+  + Báo cáo tài chính → Khóa sổ
+
+    CHẤT LƯỢNG THÔNG TIN KẾ TOÁN
+- Khách quan, trung thực → Không bị chi phối chủ quan
+- Đầy đủ → Đủ thông tin tài sản, nợ, vốn chủ sở hữu và KQKD trong kì
+- Kịp thời → Ghi chép báo cáo số liệu đúng/ trước thời hạn
+- Dễ hiểu → Dễ nắm được và so sánh giữa các kì
+
+    NGHỀ KẾ TOÁN
+- Công chức → Dịch vụ thuế, kiểm toán, tư vấn quản lý
+- Tư nhân → Nhân viên doanh nghiệp (người lao động)
+- Nhà nước → Thu thập xử lý thông tin về bộ máy nhà nước
+- Pháp lý → Điều tra gian lận bằng kĩ năng kế kiểm, điều tra
+
+    ĐẠO ĐỨC KẾ TOÁN
+- Chính trực → Thẳng thắn, trung thực
+- Khách quan → Không thiên vị, xung đột lợi ích
+- Chuyên môn và thận trọng → Cẩn thận, chất lượng về chuyên môn, pháp luật, kĩ thuật
+- Bảo mật → Bảo vệ thông tin kinh doanh
+- Tư cách nghề → Tuân thủ luật, tránh giảm uy tín
+1.	Các loại Báo cáo tài chính
+•	BCKQKD: Doanh thu, Chi phí, Lợi nhuận
+•	BC lưu chuyển tiền tệ: dòng tiền ra vào
+•	Bảng cân đối kế toán :
+
+PHƯƠNG TRÌNH KẾ TOÁN
+- Cơ bản → Tài sản = Nợ phải trả + Vốn chủ sở hữu
+- Mở rộng → Tài sản = Nợ phải trả + (Vốn góp - Rút vốn) + (Doanh thu - Chi phí)
+
+PHÂN LOẠI TÀI SẢN VÀ NGUỒN VỐN
+    → Thể hiện ở bảng cân đối kế toán (thời điểm, viết thanh khoản giảm dần)
+- Tài sản ~ Sở hữu lâu, xác định giá trị, đem lợi ích
+  + Ngắn hạn
+    -- Tiền, phải thu/trả trước
+    -- Công cụ/nguyên liệu, hàng hóa, tồn kho
+    -- Đầu tư ngắn (<12 tháng, cổ/trái/liên doanh)
+    -- Thuế đầu vào khấu trừ
+    -- Dự phòng giảm giá/khó đòi (âm)
+  + Dài hạn
+    -- Tài sản cố định
+    -- Bất động sản
+    -- Đầu tư dài (công ty con/liên kết/liên doanh), dở dang
+    -- Khấu hao tài sản (âm)
+- Nguồn vốn
+  + Nợ phải trả ~ Phát sinh quá khứ, trả bằng nguồn lực
+    -- Thuế đầu ra
+    -- Phải trả/nhận trước, vay
+    -- Ký quỹ (ngắn), quỹ khen thưởng phúc lợi (ngắn), quỹ phát triển KHCN (dài)
+    -- Dự phòng bảo hành/tái cơ cấu/hoàn trả
+  + Vốn chủ sở hữu: Vốn góp, quỹ dự phòng tài chính/ đầu tư phát triển, lợi nhuận
+
+a. Các giả định kế toán
+1.	Giả định về thực thể kinh doanh (Business Entity Assumption
+Ví dụ: Tiền cá nhân của giám đốc không được ghi vào tài sản công ty.
+2.	Giả định về hoạt động liên tục (Going Concern Assumption)
+Ví dụ: Máy móc mua 1 tỷ, dù giá thị trường tăng/giảm thì vẫn ghi sổ theo giá gốc, vì DN sẽ dùng lâu dài chứ không bán ngay.
+3.	Giả định về thước đo tiền tệ (Monetary Unit Assumption)
+•	Mọi nghiệp vụ phải được đo lường và ghi nhận bằng tiền tệ (VNĐ tại Việt Nam).
+•	Những yếu tố không thể quy đổi ra tiền 
+(như chất lượng nhân viên, uy tín) thì không ghi vào sổ kế toán.
+4.	Giả định về kỳ kế toán (Time Period Assumption)
+Báo cáo tài chính năm 2024 chỉ phản ánh số liệu trong năm đó, 
+không lẫn với 2025.
+b. Các nguyên tắc kế toán
+Nguyên tắc (9)
+  + Cơ sở dồn tích: Ghi sổ ngay khi phát sinh, sửa bằng bút toán điều chỉnh
+  + Giá phí
+    -- Giả định liên tục và kì kế toán
+    -- Tài sản tính theo giá tại thời điểm nhận được (tổng tiền các nguồn lực bỏ ra để có tài sản)
+  + Khách quan: Số liệu có thể kiểm tra được, có chứng từ, không bị ảnh hưởng chủ quan
+  + Phù hợp
+    -- Giả định liên tục và kì kế toán
+    -- Chi phí phát sinh phải phù hợp với doanh thu
+  + Nhất quán: Chỉ thực hiện 1 phương pháp kế toán (tính giá vốn, lập dự phòng, tính khấu hao)
+  + Ghi nhận doanh thu: Ghi nhận doanh thu khi giao hết hàng hoặc hoàn thành dịch vụ (không liên quan tiền)
+  + Thận trọng
+    -- Ghi nhận doanh thu khi có chứng từ, nhưng ghi nhận chi phí từ khi có nguy cơ
+    -- Chọn ghi thấp nhất cho chi phí liên quan tài sản, ghi cao nhất cho công nợ phải trả
+  + Trọng yếu: Ghi tách riêng các nghiệp vụ quan trọng với người sử dụng, có thể bỏ qua các lỗi nhỏ
+  + Công khai: Tất cả tình hình tài chính, hoạt động phải trình bày đủ trong BCTC cho người sử dụng
+CHƯƠNG 2:
+1.	Định khoản (ghi nhật ký chung)
+TÀI SẢN: tăng ghi Nợ
+       giảm ghi Có
+NGUỒN VỐN: tăng ghi Có
+                  giảm ghi Nợ
+Ngắn hạn : <1 năm; Dài hạn: >1 năm
+•	Chi phí ghi giống Tài sản, Doanh thu ghi giống Nguồn vốn
+•	VD1: Mua hàng 200tr, thanh toán 1 nửa = TGNH
+Nợ TK Hàng hóa: 200tr
+Có TK TGNH: 100tr
+Có TK Phải trả người bán: 100tr
+•	VD2 : Góp vốn = 100tr tiền mặt; 200tr = TSCĐ
+Nợ TK Tiền: 100tr
+Nợ TK TSCĐ: 200tr
+Có TK Vốn CSH: 300tr (Tăng)
+4 LOẠI BÚT TOÁN ĐIỀU CHỈNH
+1.	Chi phí trả trước (CP thuê Vp trả trước, CP bảo hiểm trả trước, VP phẩm, TSCĐ)
+*CP thuê VP trả trước
+Nợ TK Chi phí thuê VP trả trước
+Có TK Tiền gửi TKNH
+→ điều chỉnh:
+Nợ TK Chi phí thuê VP
+Có TK Chi phí thuê VP trả trước
+1.	Chi phí dồn tích
+•	Lãi luôn tính theo năm
+VD: Vay NH 2 tỷ từ 1/1 vay 9 tháng. Lãi suất 10% (Lãi + gốc trả cuối kì)
+1/1 : Nợ TK Tiền: 2 tỷ; Có TK vay NH: 2 tỷ
+31/3: Nợ TK Chi phí lãi vay: 50tr; Có TK lãi vay phải trả: 30tr
+c. Doanh thu dồn tích (gửi tiền NH)
+Gửi tiền NH: 2 tỉ, 9 tháng, lãi 10% (Gốc và lãi nhận cuối kì)
+1/1: Nợ TK TGNH: 2 tỷ; Có TK Tiền mặt: 2 tỷ
+31/3: Nợ TK lãi vay phải thu: 50tr; Có TK Doanh thu lãi vay: 50tr
+d. Doanh thu nhận trước
+KH ứng trước 100tr tiền hàng. 31/3 mới giao được 1 nửa cho KH. 30/4 giao nốt
+1/1: Nợ TK tiền: 100tr; Có TK KH ứng trước: 100tr
+31/3: Nợ TK KH ứng trước: 50tr; CÓ TK doanh thu bán hàng: 50tr
+30/4: Nợ TK KH ứng trước: 50tr; Có TK Doanh thu bán hàng: 50tr
+________________________________________
+TK Tạm thời: TK Doanh thu, Chi phí, Rút vốn: không có số dư cuối kỳ
+•	Tất cả TK thuộc Bảng CĐKT → TK vĩnh viễn
+•	TK thuộc Báo cáo kết quả KD → TK tạm thời
+•	Chu trình kế toán: Định khoản → Các sổ cái (TK chữ T) → Lập Bảng cân đối thử → Bút toán điều chỉnh → Lập lại Bảng cân đối thử sau điều chỉnh → Làm bút toán khóa sổ → Lập BCTC
+**************************
+CHƯƠNG 3: KẾ TOÁN CÔNG TY THƯƠNG MẠI
+1.	Mua hàng
+Nợ TK Hàng hóa: tiền hàng ko gồm VAT + CP vận chuyển - giảm trừ
+Mua nợ: Điều khoản thanh toán: 2/10. n/30
+Nợ TK thuế GTGT/ đầu vào
+Có TK tiền/ PTNB/ Ứng trước cho người bán
+1.	Bán hàng
+•	Ghi Doanh thu:
+Nợ TK TIền/ PTKH/KHUT Có TK Doanh thu bán hàng
+Có TK Thuế GTGT đầu ra
+•	Ghi giảm trừ doanh thu
+Nợ TK Chiết khấu bán hàng/ Hàng bán trả lại
+Nợ TK Thuế GTGT đầu ra
+Có TK Phải thu KH/ tiền
+•	Ghi chi phí bên bán phải chịu (nếu có) : FOB điểm đến
+Nợ TK CP vận chuyển (điểm đến)
+Nợ TK thuế GTGT đầu vào
+Có TK tiền/ phải trả người bán
+•	Ghi Giá vốn hàng hóa (Chi phí)
+Nợ TK GVHB
+Có TK Hàng hóa
+•	Chi phí hoạt động = Lương, dịch vụ ngoài, quảng cáo, khấu hao, vận chuyển, bảo hiểm, tiện ích, chi phí bán hàng
+•	Doanh thu khác = Cho thuê tài sản
+•	Chi phí khác = Thanh lý tài sản + Lỗ, phạt
+•	Doanh thu thuần = Doanh thu gộp (DT bán hàng) - Khoản giảm trừ (trả, giảm, chiết khấu)
+•	Lợi nhuận gộp = Doanh thu (ko tính VAT) - Giá vốn hàng bán (ko tính VAT) - các khoản giảm trừ doanh thu (chiết khấu bán hàng)
+(LN gộp (chưa trừ các chi phí vận hành (Chi phí bán hàng, Chi phí quản lý doanh nghiệp) = Doanh thu thuần - GVHB)
+•	Lợi nhuận thuần (kinh doanh) = Lợi nhuận gộp + Doanh thu tài chính - Chi phí tài chính - Chi phí bán hàng và quản lý doanh nghiệp + doanh thu khác - chi phí khác
+•	Lợi nhuận trước thuế = Lợi nhuận thuần + Doanh thu khác - Chi phí khác (Lợi nhuận thuần có thể ~ Lợi nhuận trước thuế)
+- Tỷ lệ lợi nhuận gộp trên doanh thu: (DT - GVHB)/DT
+________________________________________
+Chu kì kinh doanh : Dịch vụ < Thương mại < Sxuat
+***************************************
+CHƯƠNG 4: HÀNG TỒN KHO
+VAT đầu ra (phải nộp)
+VAT đầu vào (được khấu trừ)
+Giá gốc HTK ĐK + Giá gốc HTK mua vào trong kì = Giá vốn hàng bán + Giá gốc HTK cuối kì
+⇒ Giá trị hàng hóa có sẵn để bán = Giá gốc HTK ĐK + Giá gốc HTK mua vào trong kì (thuần)
+( Giá vốn hàng mua thuần = Giá mua hàng (chưa VAT) - Hàng mua trả lại + Chi phí vận chuyển)
+⇒ Tổng hàng có sẵn = Giá vốn hàng bán (Hàng đã bán) + Giá gốc HTK cuối kì
+CÁC PHƯƠNG PHÁP TÍNH GIÁ VỐN HÀNG BÁN
+GVHB = Doanh thu thuần - Lợi nhuận gộp
+•	PHƯƠNG PHÁP 1: THỰC TẾ ĐÍCH DANH
+chỉ phù hợp với các DN có số lượng hàng hóa ít, và giá trị lớn
+•	PHƯƠNG PHÁP 2: GIÁ GIẢ ĐỊNH
+phù hợp với các DN có nhiều hàng hóa và giá trị ko quá lớn
+•	FIFO: First in first out : Nhập trước xuất trước
+•	LIFO: Last in first out: Nhập sau xuất trước
+•	Giá bình quân
+o	Bình quân cả kì
+o	Bình quân từng lần
+⇒ Giá vốn hàng mua thuần = Giá mua hàng - Hàng mua trả lạI + Chi phí vận chuyển
+ 
+ 
+1/ Kiểm kê cuối kỳ:
+•	GVHB = Giá gốc hàng sẵn sàng để bán - Giá gốc hàng tồn kho cuối kì
+•	           = Hàng tồn kho đầu kỳ + Hàng mua thêm trong kỳ - Hàng tồn kho cuối kỳ
+•	           = Tồn kho đầu kỳ + Giá vốn hàng mua thuần - Tồn kho cuối kỳ
+•	Giá gốc hàng sẵn sàng để bán (các số lần mua) = (SL x đơn giá) + (SL x đơn giá) + …
+•	Số lượng hàng tồn kho cuối kì = [Các số lượng mua] - [Các số lượng bán]
+Giá gốc hàng tồn kho cuối kì:
+•	FIFO (ngược từ dưới lên - các lần mua) = [SL lần mua mới nhất] x [Đơn giá] + …. cho đến khi SL các lần mua = SL hàng tồn kho cuối kì
+•	LIFO (từ trên xuống) = [SL lần mua cũ nhất] x [Đơn giá] + ….. cho đến khi SL các lần mua = SL hàng tồn kho cuối kì
+•	Giá bình quân cả kì: Giá gốc hàng sẵn sàng để bán/ Tổng số lượng các lần mua
+⇒ Giá gốc hàng tồn kho cuối kì : [Giá bình quân cả kì] x [SL hàng tồn kho cuối kì]
+⇒ Nếu đơn giá đầu vào tăng lên thì GVHB theo FIFO < theo giá bình quân cả kì < theo LIFO (đơn giá giảm thì ngược lại)
+→ LN gộp theo FIFO > giá bình quân cả kì > LIFO (giảm thì ngược lại)
+2/ Kê khai thường xuyên:
+•	FIFO = [SL bán lần đầu] x [Đơn giá của hàng đầu kỳ] + [SL bán lần 2] x …..
+•	LIFO = [SL bán lần gần nhất] x [Đơn giá của lần mua gần nhất] + ….
+•	Giá bình quân cả kỳ : GVHB = Giá bình quân cả kì x (Tổng SL các lần bán)
+******************************
+CHƯƠNG 5: TIỀN VÀ CÁC KHOẢN PHẢI THU
+1.	Thương phiếu phải thu
+•	Bán hàng cho nợ
+Nợ TK phải thu KH
+Có TK doanh thu BH
+Có TK thuế GTGT đầu vào
+•	Bán hàng cho nợ, KH viết 1 tờ thương phiếu
+Nợ TK Thương phiếu phải thu
+Có TK Doanh thu bán hàng
+Có TK Thuế GTGT đầu ra (nếu có)
+•	KH viết 1 tờ thương phiếu thay cho khoản nợ trước đó
+Nợ TK Thương phiếu phải thu
+Có TK phải thu KH
+NẾU THƯƠNG PHIẾU TÍNH THEO NGÀY THÌ QUY ĐỊNH LÀ 1 NĂM LÀ 360 NGÀY, 1 THÁNG 30 NGÀY
+•	Tổng số tiền cả gốc và lãi của Thương phiếu khi đáo hạn (hết xx tháng) = X
+Số tiền chiết khấu thương phiếu: [Số tiền] x [Lãi suất chiết khấu theo năm] x [Thời gian còn lại/12]
+⇒ Số tiền công ty nhận được từ NH = X - Số tiền chiết khấu thương phiếu
+1.	Nợ xấu khó đòi (Nợ xấu)
+•	Xóa sổ trực tiếp
+Nợ TK CP phải thu khó đòi
+Có TK phải thu KH
+•	Trích lập dự phòng (âm - TK điều chỉnh)
+Nợ TK CP nợ ph thu khó đòi
+Có TK dự phòng ph thu khó đòi
+*2 phương pháp tính số tiền phải trích lập dự phòng
+1.	PP % doanh thu chưa thu tiền (doanh thu bán chịu)
+•	ko trừ đi số dư ĐK là của TK dự phòng
+•	= [Doanh thu bán chịu] x [tỉ lệ ước tính không thu hồi được]
+1.	PP nợ phải thu
+•	Có trừ đi số dư ĐK của TK dự phòng
+•	= [Doanh thu bán chịu] x [tỉ lệ ước tính không thu hồi được] - [Số dư đầu kỳ của TK dự phòng]
+***********************************
+CHƯƠNG 6: TÀI SẢN CỐ ĐỊNH
+•	là tài sản có thời gian sử dụng >1 năm hoặc >1 chu kỳ kinh doanh, phục vụ cho các HĐ sản xuất của công ty
+•	Phân loại: 
+o	TSCĐ hữu hình : có hình dạng vật lý cụ thể : MMTB, PTVT, nhà cửa, đất đai
+o	TSCĐ vô hình: Bản quyền, Giấy phép, Lợi thế thương mại
+1.	Mua TSCĐ đưa vào sử dụng ngay
+Nợ TK TSCĐ : (Nguyên giá= Giá mua (ko tính VAT) + Thuế trực tiếp + Chi phí khác - giảm trừ)
+Nợ TK Thuế GTGT đầu vào
+Có TK tiền mặt/ TGNH/ phải trả người bán
+b. Mua TSCĐ nhưng chưa sử dụng ngay:
+Nợ TK mua sắm TSCĐ
+Nợ TK thuế GTGT đầu vào
+Có TK tiền mặt/ TGNH/ PTNB
+c. Hết thời gian chạy thử
+Nợ TK TSCĐHH
+Có TK mua sắm TSCĐ
+1.	Sửa chữa
+•	Sửa chữa nhỏ
+o	Nợ TK chi phí sửa chữa TSCĐ
+Nợ TK Thuế GTGT đầu vào (nếu có)
+Có TK Tiền mặt/ TGNH/ PTNB
+•	Sửa chữa lớn
+o	Nợ TK TSCĐHH
+Nợ TK Thuế GTGT đầu vào
+Chi phí BH trong quá trình vận chuyển TSCĐ từ chỗ bán về → được tính vào Nguyên giá
+Chi phí BH trong quá trình sử dụng sau này
+→ ko tính vào Nguyên giá → tính vào CPBH trả trước
+1.	Trích khấu hao
+VD: Mua máy hết 1 tỉ khấu hao 10 năm theo khấu hao đều
+1/1:
+Nợ TK TSCĐHH: 1 tỉ
+Có TK Tiền: 1 tỉ (giảm)
+31/3:
+Nợ TK Chi phí khấu hao : 33,3tr
+Có TK Khấu hao lũy kế : 33,3tr
+•	PP đường thẳng (Khấu hao đều)
+Chi phí khấu hao 1 năm
+Tỷ lệ KH đường thẳng = 1/ Thời gian sử dụng
+= (Nguyên giá - GT thu hồi ước tính)/Số năm sử dụng ước tính
+1 tháng : Chi phí khấu hao 1 năm/ 12 tháng
+1 quý: Chi phí khấu hao 1 tháng x 3 tháng
+•	PP khấu hao theo sản lượng (theo công suất)
+CPKH mỗi km = (Nguyên giá - GT thu hồi ước tính)/Công suất
+→ VD: Năm thứ nhất đi được 20 000km
+⇒ 20 000 x CPKH mỗi km
+•	PP khấu hao nhanh (KH theo số dư giảm dần)
+Cần biết hệ số KH nhanh
+→ tỉ lệ KH nhanh = tỉ lệ KH theo PP đường thẳng x hệ số KH nhanh
+Lập bảng
+Năm (theo Số năm sử dụng ước tính)
+GT đầu kì (Năm đầu là Nguyên giá, các năm sau là GT cuối kì trước)
+Tỉ lệ KHN (= tỉ lệ KH nhanh)
+CPKH trong kỳ (= tỉ lệ KH nhanh x GT đầu kì)
+KH lũy kế (Năm đầu là CPKH trong kỳ, 
+các năm sau = KH lũy kế năm trước + CPKH trong kỳ của năm nay)
+=> Tỉ lệ KH nhanh = (100%/ thời gian sử dụng dự kiến) x Hệ số KH nhanh
+-> Giá trị còn lại: (Nguyên giá x Tỉ lệ KH nhanh) x Tỉ lệ KH nhanh
+________________________________________
+Riêng năm cuối:
+GT cuối kỳ = Giá trị thu hồi ước tính
+⇒ CPKH trong kỳ = GT đầu kỳ - GT thu hồi ước tính
+1.	Thanh lý, nhượng bán
+a. Khấu hao bổ sung tới thời điểm bán
+Nợ TK CPKH
+Có TK khấu hao lũy kế
+(Nếu bài cho là đã trích KH tới thời điểm bán thì ko cần làm bút toán này nữa)
+b. Xóa sổ tài sản (Bắt buộc)
+Nợ TK KH lũy kế : …
+Nợ TK CP khác: (gtri còn lại) (ko ghi CP khác nếu tài sản đã khấu hao hết)
+Có TK TSCĐHH
+c. CP phải trả để thanh lý/ Nhượng bán
+Nợ TK Chi phí khác (Thuế)
+Có TK Tiền mặt/ TGNH/ PTNB
+d. Thu từ thanh lý/ Nhượng bán
+Nợ TK Tiền mặt/ TGNH/ PTNB
+Có TK Doanh thu khác
+Có TK Thuế GTGT đầu ra/ vào
+********************************
+CHƯƠNG 7: NỢ PHẢI TRẢ
+•	Phải trả người bán/ KH ứng trước/ Doanh thu nhận trước/ Thương phiếu phải trả
+1.	Thuế GTGT phải trả (đầu ra thuộc Nợ phải trả) (thuế GTGT đầu vào thuộc TSNH)
+Cuối kỳ: Bút toán khấu trừ thuế
+Nợ TK Thuế GTGT phải trả: Số bé hơn: 80
+Có TK Thuế GTGT được khấu trừ/ đầu vào: 80
+Bút toán nộp thuế:
+Nợ TK Thuế GTGT phải trả: 20
+Có TK Tiền mặt/ TGNH: 20
+1.	Kế toán tiền lương (Phải trả người LĐ)
+Tổng tiền lương + thưởng = Tiền lương thuần + Các khoản giảm trừ lương (Thuế TNCN, Bảo hiểm [BHYT, BHXH, BH thất nghiệp])
+*Người lao động:
+•	BHXH : 8% (của lương cứng)
+•	BHYT: 1,5%
+•	BH thất nghiệp: 1%
+→ Tổng: 10,5%
+*Doanh nghiệp:
+•	BHXH: 17,5% (của lương cứng NLĐ)
+•	BHYT: 3%
+•	BHTN: 1%
+→ Tổng: 21,5%
+⇒ Tổng: 32%
+•	Lương thuần = Lương cứng - Thuế TNCN - Bảo hiểm
+************************
+CHƯƠNG 8: VỐN CHỦ SỞ HỮU
+Vốn CSH cuối kỳ = VCSH đầu kỳ + Góp - Rút + Lợi nhuận
+1.	Cổ phiếu
+Công ty cổ phần được phép phát hành cổ phiếu
+•	Công ty đại chúng
+•	Công ty cổ phần niêm yết
+•	Công ty cổ phần ko niêm yết
+Trái phiếu
+•	Công ty cổ phần được phép phát hành trái phiếu
+•	Công ty TNHH 1 thành viên
+•	Công ty TNHH 2 thành viên
+Công ty phát hành TP → tăng Nợ phải trả <vốn nợ>
+Công ty phát hành cổ phiếu → Tăng vốn CSH
+•	Phân loại 
+o	CP thường: Được tham dự ĐH cổ đông, trả cổ tức (khi công ty lãi)
+o	CP ưu đãi: được trả cổ tức (hàng năm)
+o	CP quỹ: là CP thường đã phát hành nhưng được công ty mua lại
+1.	Định khoản
+a. Cổ phiếu
+•	Phát hành CP: 
+o	Mệnh giá : 10 000
+o	Thị giá
+Nợ TK TGNH: Thị giá x Số lượng
+Có TK CP thường: Mệnh giá x số lượng
+→ Mệnh giá = Thị giá
+•	Thị giá > Mệnh giá: thêm Có TK Thặng dư vốn CP (= (Thị giá - Mệnh giá) x Số lượng
+•	Thị giá < Mệnh giá:
+thêm Nợ TK Thặng dư vốn CP
+(Nợ TK Lợi nhuận chưa phân phối): ghi khi Thặng dư vốn CP ko đủ
+*CP ưu đãi: giống CP thường
+*CP quỹ:
+Nợ TK CP quỹ: số tiền mua (tăng)
+Có TK TGNH: Số tiền mua (giảm)
+*Phát hành lại CP Quỹ (mang dấu âm)
+Nợ TK TGNH: Số tiền thu về (tăng)
+Có TK CP Quỹ: Số tiền thu về (giảm)
+b. Cổ tức (= tiền, Cổ phiếu, Tài sản, Hàng hóa)
+*Trả cổ tức bằng tiền
+1.	Ngày thông báo
+Nợ TK Lợi nhuận Chưa phân phối: SL cổ phiếu x Mệnh giá x tỉ lệ trả cổ tức
+Có TK cổ tức phải trả
+1.	Ngày chốt danh sách cổ đông (Ngày giao dịch không hưởng quyền)
+Không ghi bút toán
+•	Mua vào ngày này: không được trả cổ tức
+•	Bán CP vào ngày này: vẫn được trả cổ tức
+1.	Trả cổ tức 
+****CỔ TỨC = Mệnh giá x Số lượng
+Nợ TK cổ tức phải trả
+Có TK TGNH (giảm)
+*Trả cổ tức = cổ phiếu
+1.	Ngày thông báo
+Nợ TK Lợi nhuận chưa phân phối: Số lượng x Thị giá x Tỉ lệ trả cổ tức
+•	2 trường hợp 
+o	Tỉ lệ trả cổ tức nhỏ (< 20-25%) : → ghi theo thị giá
+o	Tỉ lệ trả cổ tức lớn (>20-25%) : → ghi theo mệnh giá
+Có TK Cổ tức = CP phải phân phối
+               = **SL x mệnh giá x tỷ lệ**
+Có TK Thặng dư Vốn cổ phần: SL x (Thị giá - Mệnh giá) x tỷ lệ
+1.	Ngày chốt DS cổ đông
+2.	Ngày chi trả
+Nợ TK cổ tức = CP phải phân phối
+Có TK CP thường (tăng)
+*************************
+CHỈ SỐ
+•	Tỷ suất lợi nhuận gộp trên doanh thu thuần (Lợi nhuận biên) 
+o	= Lợi nhuận gộp/ Doanh thu thuần
+o	(DT thuần = Tổng DT - các khoản giảm trừ; LNG = DTT -GVHB)
+o	Ý nghĩa: Một đồng doanh thu thuần sinh ra bnh đồng lợi nhuận gộp
+o	Cao sẽ tốt vì LN gộp sẽ bù đắp được chi phí kinh doanh
+•	Tỷ suất GVHB/DTT = 1 - Tỷ suất lợi nhuận gộp trên doanh thu thuần 
+o	= GVHB/ Doanh thu thuần
+o	Ý nghĩa: GVHB chiếm bnhieu % doanh thu thuần
+o	Tỷ lệ này thấp là tốt
+•	Tỷ suất lợi nhuận thuần (LN thuần = LNG - các khoản chi phí + DT tài chính - CP tài chính) 
+o	= Lợi nhuận thuần/ Doanh thu thuần
+o	Ý nghĩa: Một đồng doanh thu sinh ra được bnhieu đồng lợi nhuận thuần
+o	Tỷ lệ này cao phản ánh DN có khả năng sinh lợi tốt
+•	Số luân chuyển hàng tồn kho (Vòng quay hàng tồn kho) 
+o	= GVHB/ Hàng tồn kho bình quân (tính bằng lần or vòng)
+o	Ý nghĩa: Hệ số này cao chứng tỏ DN bán hàng nhanh (cao quá có thể không tốt vì DN có thể thiếu hàng)
+•	Số ngày bán hàng tồn kho 
+o	= 365 ngày/ Số lần luân chuyển hàng tồn kho
+o	Ý nghĩa: Hệ số này nhỏ chứng tỏ DN bán hàng nhanh
+•	Số lần thu nợ phải thu (Vòng quay khoản phải thu) 
+o	= Doanh thu thuần/ Phải thu KH bình quân
+o	Ý nghĩa: Một năm DN thu được nợ bnh lần
+o	Hệ số này cao chứng tỏ DN thu hồi nợ nhanh, không bị KH chiếm dụng vốn
+•	Thời gian thu hồi nợ phải thu 
+o	= 365/ Số lần thu nợ phải thu
+o	Ý nghĩa: Mất bnhieu ngày để DN thu hồi nợ phải thu KH
+o	Số ngày càng nhỏ → DN thu tiền KH nhanh
+•	Hiệu suất sử dụng tổng tài sản (Vòng quay tổng tài sản) 
+o	= Doanh thu thuần/ Tổng tài sản bình quân
+o	Ý nghĩa: Mỗi đồng tài sản sinh ra bnhieu đồng doanh thu thuần. Càng lớn càng tốt
+•	Hiệu suất sử dụng tài sản cố định 
+o	= Doanh thu thuần/ Nguyên giá TSCĐ bình quân
+o	Ý nghĩa: Mỗi dòng TSCĐ sinh ra bnhieu đồng doanh thu thuần. Càng lớn càng tốt
+•	ROA = Return on Assets 
+o	= Lợi nhuận thuần/ Bình quân tổng tài sản
+o	Ý nghĩa: Một đồng tài sản bình quân sinh ra được bnhieu đồng lợi nhuận thuần
+•	Hệ số khả năng thanh toán ngắn hạn (CR: Current Ratio) 
+o	CR = TS ngắn hạn/ Nợ ngắn hạn
+o	Ý nghĩa: Một đồng nợ ngắn hạn được đảm bảo bằng bnhieu đồng tài sản ngắn hạn. Cao là tốt nhưng cao quá lại ko tốt vì giữ nhiều TSNH, khả năng sinh lời thấp
+o	Lớn hơn 1 là tốt
+Vốn lưu động ròng (thuần) = TSNH - Nợ ngắn hạn > 0 là tốt
+•	Hệ số khả năng thanh toán nhanh (QR) 
+o	QR = (TSNH - Hàng tồn kho)/ Nợ ngắn hạn
+o	= (Tiền + đầu tư tài chính ngắn hạn + phải thu KH)/ Nợ ngắn hạn
+o	Ý nghĩa: Khả năng thanh toán nợ ngắn hạn bằng những TS có thể chuyển đổi thành tiền nhanh
+o	1 là tốt
+•	Tỷ suất Lợi nhuận trên Vốn CSH (ROE) 
+o	ROE = Lợi nhuận thuần/ Vốn CSH bình quân
+o	Ý nghĩa: Cao là tốt, nhưng cao quá phản ánh rủi ro nhiều
+•	Lợi nhuận trên 1 cổ phần (EPS) 
+o	= Lợi nhuận cho cổ đông thường (LNST) / Số cổ phần phổ thông đang lưu hành
+o	Ý nghĩa: cao là tốt
+o	LN sau thuế = Lợi nhuận thuần + DT khác - CP khác - CP thuế TNDN
+Anh Chung là kế toán tổng hợp/1.050.000
+Bút toán điều chỉnh lãi thương phiếu/CẢ Bảng cdkt và báo cáo kqkd
+Bán lỗ quần áo 100c/lợi nhuận gộp 900
+Báo cáo kết quả kinh doanh/Trình bày về doanh thu, chi phí
+Báo cáo kết quả kinh doanh/kết quả các hoạt động
+Báo cáo tài chính của Công ty sản xuất Bảo Điền/9 lần
+Biết doanh thu thuần 500.000/Giá vốn 270.000, Lợi nhuận 110.000
+Công ty sửa chữa/150.000
+Công ty DCF/213,6 triệu đồng
+Công ty D/Cổ phần phổ thông 400 và thặng dư 160
+Công ty trúc quỳnh/không có sự thay đổi về tổng tài sản
+Công ty thanh toán nợ lãi vay ký trước/ Tiền gửi NH giảm, Nợ phải trả giảm
+Công ty DG/ Phương pháp LIFO
+Công ty DG/ 245
+Công ty Hùng Thắng/Nợ TK CHI PHÍ LÃI VAY 800, có tk lãi vay phải trả 800
+Công ty Hồng Hà/4.500
+Công ty Halongfood/80.000
+Công ty Elly/250
+Công ty GL/5.200
+Công ty Bee/Tài sản và vốn chủ tăng 6.000
+Công ty BẠCH Quả/ phải trả người lao động 76.630
+Công ty cổ phần Vàng bạc/15%
+Công ty Bảo Điền/34%
+Công ty Anna/Tổng tài sản không đổi
+Công ty Hoa Lan/KHÔNG GHi nhận
+Công ty Hùng Thắng/8 lần
+Công ty Hùng Thắng/Nợ TK DT cho thuê chưa thực hiện 5.000,Có Tk DT cho thuê 5.000
+Công ty Hùng Thắng/14.000
+Công ty vận tải đường thủy Hùng Thắng/Nợ CPBH 7.500, Có Tk BHTT 7.500
+Công ty cổ phần Khaong Xanh/1.000
+Công ty sản xuất bánh gạo A An/Nguyên vật liệu
+Công ty D/Cao hơn mệnh giá
+Công ty Hoàng Lâm/3.430
+Công ty Thùy Linh/Phân bổ vào chi phí kinh doanh trong năm 2018 và 2019
+Công ty Hoa Hồng/2.950
+Công ty Đức Hưng/Phân bổ dần vào chi phí kinh doanh
+Công ty Đức Cương/tăng 50.000
+Công ty mua 10 chiếc xe/tài sản cố định
+Công ty mua một chiếc xe tải/885
+Các nhà quản lý công ty Venice/LIFO
+Các yếu tố ảnh hưởng đến khấu hao tài sản cố định/Nguyên giá và giá trị thu hồi
+Chuyển khoản thanh toán tiền thuê VP/Nợ Tk chi phí trả trước, có tk tiền gửi ngân hàng
+Cổ tức bằng cổ phiếu/Có thể giúp các cổ đông
+Chỉ tiêu phản ánh kết quả kinh doanh/Lợi nhuận chưa phân phối
+Chi phí thuê tân trang/Nợ TK Chi phí khác
+Chi phí khấu hao cho một kỳ kế toán/Giá thị trường của TSCD
+Chi phí sửa chữa, bảo dưỡng/Ghi nợ chi phí sửa chũa tscd
+Chi phí vận chuyển hàng hóa trả hộ/tĂNG KHOẢN PHẢI THU KHÁC hoặc giảm trừ phải trả người bán
+Chu kỳ kinh doanh của một công ty thương mại/dài hơn chu kỳ kinh doanh một công ty sản xuất
+Chiết khấu được hưởng/Nợ TK Tiền mặt, Có TK hàng hóa
+Cuối kỳ, công ty sản xuất bánh gạo/Sẳn phẩm dở dang
+Cuối kỳ, kế toán ghi nhận bút toán/ tăng và giảm
+Cuối kỳ, khi thực hiện bút toán điều chỉnh/giảm ợ phải trả, tăng doanh thu
+Cho số dư liên quan đến người bán công ty SAO MỘC/Phải trả NB 75.000 và Ứng trước cho NB 10.000
+Cho số dư liên quan đến khách hàng công ty SAO MỘC/Phải thu khách hàng 30.000 và Khách hàng ứng trước 64.000
+Cho số dư đầu kỳ tk thuế gtgt/Nợ tk thuế gtgt phải nộp 22.800.000
+DN hoàn thành cung cấp dịch vụ/Tổng vốn CSH tăng, tổng tài sản tăng
+DN sử dụng phương pháp kê khai thường xuyên/Trong trường hợp bán hàng và nhận lại hàng bán trả lại
+DN tính thuế GTGT theo phưogn pháp khấu trừ/tăng lợi nhuận khác 40.600
+Đầu kỳ công ty Thiên An/95.000ơng phiếu/CẢ Bảng cdkt và báo cáo kqkd
+Để ghi số dư đầu kỳ cho từng tài khoản/bảng cân đối kế toán kỳ trước
+Khi DN dùng tiền mặt 5.000.000/Tăng tạm ứng và giảm tiền mặt
+Khi DN dùng tiền mặt ứng trước/Quy mô tài sản
+Khi công ty phát hành cổ phiếu/bên có tk vốn góp csh với phần mệnh giá cổ phiếu
+Khi lập báo cáo, kế toán ghi nhầm/tài sản lớn hơn nguồn vốn 400
+kHI Lập BCTC, kế toán phản ánh chi tiêu/Tài sản tăng, NGuồn vốn tăng
+Khi công ty chi trả cổ tức/Bên Nợ TK cổ tức phải trả
+Khi lập bảng cân đối kế toán/Là nợ phải trả ngắn hạn
+Khi hàng tồn kho cuối kỳ thấp/giá vốn hàng bán lớn hơn
+Khi phát sinh khoản chiết khấu/có tk hàng hóa
+Khi phát sinh nghiệp vụ chi tiền mặt/có tk tiền mặt
+Khi bán hàng cho khách hàng thu bằng tiền mặt, kế toán ghi/Nợ TK tiền mặt, có tk doanh thu bán hàng
+Khi khách hàng thanh toán ngoài thời hạn/Phải thu khách hàng 2.500
+Khi thay đổi phương pháp tính giá xuất/Giá trị hàng hóa sẵn sàng
+Khi thực hiện kế toán các khoản phải thu/Theo dõi chi tiết từng đối tượng nợ và theo thời hạn nợ
+Kế toán ghi nhận chi phí vân chuyển/Ảnh hưởng tới cả TSCD và Chi phí
+Kế toán ghi bên có tk"pHẢI TRẢ NGƯỜI LAO ĐỘNG"/cuối kỳ kế toán
+Khoản mục nào sau đây không được công khai/Số lượng hàng tồn kho 
+Lãi vay cho khoản 225.000/4.500
+Lợi nhuận giữ lại là/Phần lợi nhuận giữu lại sau khi chia cổ tức
+Lựa chọn phương pháp giả định để tính toán/nhà quản lý doanh nghiệp
+Mua nguyên vật liệu nhập kho theo giá cả thuế gtgt/Nợ nvl 60. nợ thuế gtgt 6, có tgnh 33, có ứng trước 33
+Mua nguyên vật liệu nhập kho/Nợ TK NVL, Nợ TK thuế gtgt, có tk ứng trước cho người bán
+Mua nguyên vật liệu nhập kho/Nợ TK NVL, Nợ TK thuế gtgt, có tk tạm ứng
+Mua hàng hóa nhập kho với giá mua cả thuế/nợ hàng hóa 40, nợ thuế 4, có tiền gửi NH 44
+Mục tiêu của kế toán/Xác định, đo lường và truyền đạt
+Một giao dịch của công ty B/Nợ hàng hóa 49, nợ thuế 4.9,có tk tiền 53,9
+Một tài sản cố định/97,2
+Một số thông tin công ty Minh Hoa/30.000
+Một công ty cổ phần có số dư/SỐ CỔ PHẦN phát hành là 30.000
+Một công ty thương mại chuyên kinh doanh/Tài sản cố định hữu hình
+Mối quan hệ nợ phải trả - doanh thu/bút toán điều chỉnh doanh thu chưa thực hiện
+NGuyên vật liệu doanh nghiệp đã mua/tài sản ngắn hạn
+NGuyên tắc bất kiêm nhiệm/Giúp giảm thiểu gian lận
+Nếu công ty M/Cổ phần phổ thông ghi có 450
+Nếu công ty không thưucj hiện bút toán/tài sản bị báo cáo cao
+Nếu nột dịch vụ đẫ được sử dụng trong kỳ/mỘT KHoản chi phí nên được ghi hóa đơn chuyển đến
+Nếu Doanh nghiệp ước tính dự phòng nợ/Doanh thu bán chịu trong 
+Nhượng bán 1 thiết bị/Lỗ từ việc nhượng bán thiết bị 40.000
+Nhượng bán 1 thiết bị/Lỗ 49.000
+Người bán cổ phiếu cả công ty trên thị trường/ngày chốt danh sách
+Nghiệp vụ mua một thiết bị dùng/ảnh hưởng tới tài sản cố định và hàng hóa
+Nghiệp vụ trích lợi nhuận lập quỹ khen/tổng nguồn vốn không đổi 
+NGÀY 1/9/20X9 /có tk tiền mặt 31.130.000
+NGày 20/12/20x9 /Ghi tăng phải trả người bán 45.276.000
+Ngày 01/06/N+2 / 20,25(hoặc 21) , CP khác 29,75 , 50
+Ngày 01/01/N+2 /80,170,250
+Ngày 1/10/N, công ty DOTA/Nợ tk lãi vay phải trả 60.000
+NGày 1/6/N /2.400
+Ngày 3/9/2019 /Có TK Vốn góp của CSH 26.000.000
+Nhận định nào sau đây sai nếu công ty áp dụng kê khai thường xuyên/Kiểm kê thực tế hàng tồn kho
+Phần lợi nhuận của doanh nghiệp sau khi nộp thuế/trả tiền phạt, bù các khoản lỗ,...
+Phần thuế GTGT đầu vào được khấu trừ/...tăng,...tăng,...giảm (dài nhất)
+Phần thuế GTGT đầu vào được khấu trừ sai nguyên giá tscd/tscd tăng, thuế giảm
+Phần chi phí hoạt động kinh doanh trong báo cáo/Giá vốn hàng bán
+Phát biểu đúng TK KHẤU HAO LŨY KẾ tscd/TK phản ánh tài sản, nhưng...
+Phương pháp khấu hao nào mà mức/Phương pháp khấu hao theo đường thẳng
+Quý 4/N, Công ty Thành Đạt/34.000.000
+Sổ bảo hiểm xã hội/Nợ tk chi phí lương, có tk bhxh
+số dư có của tk hao mòn tscd/không có đáp án nào đúng
+Saharh Jone/1.560.000
+Sẽ không cần thiết phải điều chỉnh/Hoạt động của đơn vị không phân chia kỳ kế toán
+Số thuế thu nhâppj cá nhân/ Tổng thu nhập chịu thuế
+số dư cuối kì tk tiền mặt 43.000.000/31.500.000
+Tại ngày 31/12/2019 /20.000
+Tại công ty Hồng Hà/ 6.000
+Trường hợp nào sau đây ghi cso tk"Phải trả người lao động"/Tính ra số phụ cấp người lao động được hưởng
+Trong điều kiện giá hàng hóa mua vào tăng/FIFO sẽ có hàng tồn kho cuối kỳ cao nhất
+Trong trường hợp nào thì giá vốn hàng bán/tất cả
+Trong Doanh nghiệp Thương mại/Chu kỳ kinh doanh dài hơn doanh nghiệp dịch vụ
+Trong niên độ tài chính năm N/ GIẢM 40.000
+Trong năm 20XX, Công ty Viva/48.000
+Trong năm 2023/4,0 lần
+Trong tháng 5/150 triệu
+Trong tháng 8 năm 2023/24.500
+Thông tin trên bảng lương 6/20x9 /70.075
+Thông tin trên bảng lương 7/20x9 /Nợ Tk phải trả người lao động 50.990
+Thông tin nào không ảnh hưởng đến giá gốc nhập kho hàng hóa mua về/Ứng trước tiền cho người bán
+Thông tin sau đây có sẵn công ty Bảo Điền/5,25 lần
+Thực hiện bút toán khóa sổ trong trường hợp/Nợ LỢI NHUẬN 10.000, CÓ XDKQKD 10.000
+Thương phiếu phải thu phát sinh/Khách hàng mua tài sản
+Thị giá cổ phiếu/có thể lớn hơn hoặc nhỏ hơn 
+Tổng thu từ bán hàng trong tháng của Minh Minh/8.450.000
+Tất cả các BCTC/Bảng cân đối kế toán
+Tài khoản "THăng dư vốn cổ phần"/Là tài khoản phản ánh vốn csh
+Tỷ lệ chi trả cổ tức/Số lượng cổ phiếu
+Tỷ lệ lợi nhuận gộp trên doanh thu là 40%/Doanh thu 120.000, Giá vốn 72.000
+Tỷ suất giá vốn hàng bán trên doanh thu/Tỷ suất lợi nhuận gộp giảm
+Thị giá cổ phiếu/Có thể lớn hơn hoặc nhỏ hơn
+Tài sản tiền mặt có kết cấu/Nợ ghi tăng tiền mặt
+Theo kết quả kiểm kê hàng tồn kho/262 triệu
+Vốn chủ sở có thể tăng lên do/Công ty phát hành cổ phiếu cao hơn mệnh giá
+Vốn chủ sở hữu được tăng bởi/Doanh thu
+Vào ngày 1 tháng 7/Nợ tk chi phí thuê nhà 3.750, có tk tiền thuê nhà trả trước 3.750
